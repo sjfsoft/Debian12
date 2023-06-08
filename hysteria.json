@@ -1,7 +1,7 @@
 {
 	"listen": "0.0.0.0:443",
-	"cert": "/etc/hysteria.crt",
-	"key": "/etc/hysteria.key",
+	"cert": "/etc/shenjunfeng.crt",
+	"key": "/etc/shenjunfeng.key",
 	"obfs": "nVdYPvnfboRdUcvpb6g4xnZG42mXRE8",
 	"alpn": "shenjunfeng",
 	"resolver": "udp://1.1.1.1:53",
