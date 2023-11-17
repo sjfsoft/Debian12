@@ -20,6 +20,6 @@ alias last='last -a'
 alias na='cat /var/log/nginx/access.log'
 alias ne='cat /var/log/nginx/error.log'
 alias nd='rm /var/log/nginx/* && systemctl restart nginx.service'
-alias na='cat /var/log/nginx/access.log'
-alias ne='cat /var/log/nginx/error.log'
+alias sing='cat /var/log/sing-box.log'
+alias singd='echo "" > /var/log/sing-box.log'
 
